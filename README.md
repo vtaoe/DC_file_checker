@@ -1,8 +1,8 @@
 # JupyterLab + Binder
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesjnadeau/binder/master?urlpath=lab/tree/index.ipynb) - Launch Jupyter Lab
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vtaoe/DC_file_checker/master?urlpath=lab/tree/index.ipynb) - Launch Jupyter Lab
 
- [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesjnadeau/binder/master?urlpath=voila) - Launch Voila
+ [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vtaoe/DC_file_checker/master?urlpath=voila) - Launch Voila
 
 
 JupyterLab is packaged with Binder repositories by default. In order to
